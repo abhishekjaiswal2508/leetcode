@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
 ## Recursion
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
 ## Math
 |  |
@@ -33,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
