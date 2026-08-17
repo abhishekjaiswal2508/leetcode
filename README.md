@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
 ## Math
 |  |
@@ -62,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
