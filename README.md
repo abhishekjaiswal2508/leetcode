@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
+| [0735-asteroid-collision](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
