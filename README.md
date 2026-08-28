@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
 ## Iterator
 |  |
 | ------- |
