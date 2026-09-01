@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0402-remove-k-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
