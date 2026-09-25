@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0402-remove-k-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
 ## Iterator
