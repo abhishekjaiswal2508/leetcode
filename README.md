@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Iterator
 |  |
 | ------- |
