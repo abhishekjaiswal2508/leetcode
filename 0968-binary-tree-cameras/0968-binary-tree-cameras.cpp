@@ -34,10 +34,10 @@ public:
     }
     int minCameraCover(TreeNode* root) {
         int count = 0;
-        //if(!root->left && !root->right) return 1 ;
-        // count<<solve(root, count);
+        //if(!root->left && !root->right) return 1 ; aak yh case chut rha tha baar baar too 
+       
         int tem = solve(root, count);
-        return tem?count:count + 1;
+        return tem?count:count + 1; // iska mtlb aagr root node pr kaabhi left or right me 1 aajaye too yh 0 return krta tha : take edge case as all right tree upto 4 
         
         
     }
