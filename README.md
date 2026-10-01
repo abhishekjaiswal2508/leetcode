@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0739-daily-temperatures) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 | [1776-car-fleet-ii](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1776-car-fleet-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Iterator
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Sorting
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
