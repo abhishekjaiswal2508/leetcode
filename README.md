@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0933-number-of-recent-calls](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Iterator
 |  |
