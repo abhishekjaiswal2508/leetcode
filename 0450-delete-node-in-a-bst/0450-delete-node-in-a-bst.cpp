@@ -49,17 +49,12 @@ public:
                 return rightchild;
                 
 
-            }//case 4 
+            }//case 4 yhaa mistake kiye the ki hm 
             if(root->left != NULL && root->right != NULL){
                 int maxi = getmax(root->left);
                 root->val = maxi;
-                root->left =  solve(root->left, maxi);
-
-                
-
+                root->left =  solve(root->left, maxi);//mistake: hm return nhi kiye the dyan doo ki root->left ko bhej rhe hoo 
             }
-
-
         }
         else{
             if(key < root->val){
