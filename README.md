@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Queue
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekjaiswal2508/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekjaiswal2508/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Two Pointers
 |  |
 | ------- |
